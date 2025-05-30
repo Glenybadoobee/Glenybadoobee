@@ -11,4 +11,4 @@ Learning at freeCodeCamp and creating projects for my portfolio.
 - VS Code
 
 Projects
-**[Falling Moia]([https://glenybadoobee.github.io/Falling-Moia/])** – Simple click-to-catch game with sound and animation.
+**[Falling-Moia]([https://glenybadoobee.github.io/Falling-Moia/])** – Simple click-to-catch game with sound and animation.

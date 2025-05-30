@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Glen
 
-<!--
-**Glenybadoobee/Glenybadoobee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year IT student passionate about web development and creative coding.
+I enjoy building mini games, interactive websites, and learning new tools.
+Currently working on HTML, CSS, JavaScript, and GitHub.
+Learning at freeCodeCamp and creating projects for my portfolio.
 
-Here are some ideas to get you started:
+## Tools and Technologies
+- HTML5, CSS3, JavaScript 
+- Git and GitHub
+- VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+**[Falling Moia](https://glenybadoobee.github.io/Falling Moia/)** – Simple click-to-catch game with sound and animation.
